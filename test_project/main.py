@@ -6,6 +6,7 @@ from motor.motor_asyncio import AsyncIOMotorClient
 
 app = FastAPI()
 
+#fdghjkl
 # Mongo_url ="mongodb+srv://gprince000685:testdb@cluster0test.d0mpr.mongodb.net/"
 # client = MongoClient(Mongo_url)
 # db = client.testdb
